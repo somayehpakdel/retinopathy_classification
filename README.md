@@ -12,8 +12,15 @@ Fundus Image
 <img " src="https://user-images.githubusercontent.com/106312128/216141355-f32f94f4-06e4-4bee-a085-5111d70f1d0e.jpg" width="300"> 
 </p>
 
+### Stages Of Diabetic Retinopathy
+
+- NO DR
+- Mild
+- Moderate
+- Servere
+- Proliferative DR
+
 ## Framework and Model
 I've used the [Fastai](https://www.fast.ai/) framework, which is based on PyTorch. Also, I have used transfer learning and Resenet network as pre-trained model.
 
-## Results
 
