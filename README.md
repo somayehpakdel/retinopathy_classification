@@ -12,7 +12,6 @@ Fundus Image
 <img " src="https://user-images.githubusercontent.com/106312128/216141355-f32f94f4-06e4-4bee-a085-5111d70f1d0e.jpg" width="300"> 
 </p>
 
-
 ### Stages Of Diabetic Retinopathy
 
 - NO DR
